@@ -25,11 +25,11 @@ Trên golden set 50 queries:
 
 ## Điều ngạc nhiên nhất khi làm lab này
 
-_(Optional, 1–2 câu)_
+Điều ngạc nhiên nhất đối với mình là việc bảo mật dữ liệu (rò rỉ chéo tenant) lại mỏng manh đến vậy: chỉ cần quên truyền biến `namespaced=True` vào metadata filter của Cache, dữ liệu của khách hàng này lập tức bị lộ cho khách hàng khác mà code không hề báo bất kỳ lỗi nào.
 
 ---
 
 ## Bonus challenge
 
 - [ ] Đã làm bonus (xem `bonus/`)
-- [ ] Pair work với: _<tên đồng đội nếu có>_
+- [ ] Pair work với: _Không có_
